@@ -1,7 +1,3 @@
-# exp-gen-1
-Estructura de Aplicación con Express Generator
-----------------------------
-
 ## Comenzar proyecto de Express con el Express Generator
 
 1. Ejecutamos el comando por teminal para instalar globalmente el generador
